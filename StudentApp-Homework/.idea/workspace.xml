@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91318dca-7e32-4ed9-87d8-41806f9b2ff9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bibYijcsUh2nuMOJkb7WjsA1xa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ReqRes-restassured-homework" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.StudentApp.Model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nikit\IdeaProjects\Ankita\StudentApp-Homework\src\test\java\com\StudentApp\Model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StudentDeleteTest.deleteStudentById">
+    <configuration name="StudentDeleteTest.deleteStudentById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudentApp-Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.StudentApp.Model.studentinfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.StudentApp.Model.studentinfo" />
+      <option name="MAIN_CLASS_NAME" value="com.StudentApp.Model.studentinfo.StudentDeleteTest" />
+      <option name="METHOD_NAME" value="deleteStudentById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentPatchTest.studentNameUpdateByID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudentApp-Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.StudentApp.Model.studentinfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.StudentApp.Model.studentinfo" />
+      <option name="MAIN_CLASS_NAME" value="com.StudentApp.Model.studentinfo.StudentPatchTest" />
+      <option name="METHOD_NAME" value="studentNameUpdateByID" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentPostTest.studentNameUpdateByEmailId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudentApp-Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.StudentApp.Model.studentinfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.StudentApp.Model.studentinfo" />
+      <option name="MAIN_CLASS_NAME" value="com.StudentApp.Model.studentinfo.StudentPostTest" />
+      <option name="METHOD_NAME" value="studentNameUpdateByEmailId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentPutTest.studentNameUpdateByID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudentApp-Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.StudentApp.Model.studentinfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.StudentApp.Model.studentinfo" />
+      <option name="MAIN_CLASS_NAME" value="com.StudentApp.Model.studentinfo.StudentPutTest" />
+      <option name="METHOD_NAME" value="studentNameUpdateByID" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentPutTest.studentNameUpdateById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudentApp-Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.StudentApp.Model.studentinfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.StudentApp.Model.studentinfo" />
+      <option name="MAIN_CLASS_NAME" value="com.StudentApp.Model.studentinfo.StudentPutTest" />
+      <option name="METHOD_NAME" value="studentNameUpdateById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StudentDeleteTest.deleteStudentById" />
+        <item itemvalue="JUnit.StudentPatchTest.studentNameUpdateByID" />
+        <item itemvalue="JUnit.StudentPostTest.studentNameUpdateByEmailId" />
+        <item itemvalue="JUnit.StudentPutTest.studentNameUpdateByID" />
+        <item itemvalue="JUnit.StudentPutTest.studentNameUpdateById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91318dca-7e32-4ed9-87d8-41806f9b2ff9" name="Default Changelist" comment="" />
+      <created>1589117910465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589117910465</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="562" y="282" width="423" height="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589145821984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="282" width="423" height="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1589145821984" />
+    <state x="225" y="171" key="FileChooserDialogImpl" timestamp="1589406180335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="225" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589406180335" />
+    <state width="813" height="211" key="GridCell.Tab.0.bottom" timestamp="1589404195293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="813" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589404195293" />
+    <state width="813" height="211" key="GridCell.Tab.0.center" timestamp="1589404195293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="813" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589404195293" />
+    <state width="813" height="211" key="GridCell.Tab.0.left" timestamp="1589404195293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="813" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589404195293" />
+    <state width="813" height="211" key="GridCell.Tab.0.right" timestamp="1589404195293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="813" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589404195293" />
+    <state x="0" y="58" key="SettingsEditor" timestamp="1589365804269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589365804269" />
+    <state x="172" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1589404259070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="172" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589404259070" />
+    <state x="0" y="118" key="new project wizard" timestamp="1589291117172">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="118" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1589291117172" />
+  </component>
+</project>

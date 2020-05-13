@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd042d69-fd03-4c94-800b-4114da47eb5f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bpFbnebU8WXzLr1fdnBbhBlp6S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Walmart-restassured-homework" />
+  </component>
+  <component name="RunManager" selected="JUnit.PatchUsers">
+    <configuration name="GetUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReqRes-restassured-homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.reqres.users.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="in.reqres.users" />
+      <option name="MAIN_CLASS_NAME" value="in.reqres.users.GetUsers" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetUsers.getSingleUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReqRes-restassured-homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.reqres.users.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="in.reqres.users" />
+      <option name="MAIN_CLASS_NAME" value="in.reqres.users.GetUsers" />
+      <option name="METHOD_NAME" value="getSingleUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatchUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReqRes-restassured-homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.reqres.users.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="in.reqres.users" />
+      <option name="MAIN_CLASS_NAME" value="in.reqres.users.PatchUsers" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReqRes-restassured-homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.reqres.users.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="in.reqres.users" />
+      <option name="MAIN_CLASS_NAME" value="in.reqres.users.PostUsers" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PatchUsers" />
+        <item itemvalue="JUnit.PostUsers" />
+        <item itemvalue="JUnit.GetUsers" />
+        <item itemvalue="JUnit.GetUsers.getSingleUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd042d69-fd03-4c94-800b-4114da47eb5f" name="Default Changelist" comment="" />
+      <created>1589321201536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589321201536</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="230" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589321566291">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="230" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1589321566291" />
+    <state x="274" y="120" key="#com.intellij.ide.util.MemberChooser" timestamp="1589322029777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="274" y="120" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589322029777" />
+    <state x="249" y="171" key="FileChooserDialogImpl" timestamp="1589406198067">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589406198067" />
+    <state width="878" height="201" key="GridCell.Tab.0.bottom" timestamp="1589410329611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="878" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589410329611" />
+    <state width="878" height="201" key="GridCell.Tab.0.center" timestamp="1589410329610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="878" height="201" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589410329610" />
+    <state width="878" height="201" key="GridCell.Tab.0.left" timestamp="1589410329610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="878" height="201" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589410329610" />
+    <state width="878" height="201" key="GridCell.Tab.0.right" timestamp="1589410329610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="878" height="201" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589410329610" />
+  </component>
+</project>
